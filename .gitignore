@@ -1,3 +1,7 @@
+.direnv
+result*
+
+
 ## Original ignores
 .github_access_token
 classic/original_autogpt/keys.py
